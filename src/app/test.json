@@ -1,0 +1,10 @@
+{"navbarItems" :[{
+    "itemname" :"Home" ,
+    "subItems":"['https://www.efghldg.com/en/business-principles' , 'https://www.efghldg.com/en/corporate-governance','https://www.efghldg.com/en/business-principles']"
+    
+},
+    {
+    "itemname" :"investments" ,
+    "subItems":"['https://www.efghldg.com/en/investment-banking' , 'https://www.efghldg.com/en/asset-management','https://www.efghldg.com/en/business-principles']"
+    
+}]}

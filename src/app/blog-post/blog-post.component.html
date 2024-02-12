@@ -1,0 +1,14 @@
+
+
+<main>
+    @if (blogPost$| async ; as blogPost) {
+        <div class="blog-posts-container">
+    
+            <img [src]="blogPost.fields.featuredImage.fields.file.url" alt="" />
+            <h2>{{blogPost.fields.title}}</h2>
+            <p class="author">{{blogPost.fields.author}}</p>
+            <p class="content">{{blogPost.fields.content}}</p>
+           
+        </div>
+    }
+</main>
